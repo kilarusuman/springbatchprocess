@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "files.error.path",
+    "type": "java.lang.String",
+    "description": "A description for 'files.error.path'"
+  },
+  {
+    "name": "files.success.path",
+    "type": "java.lang.String",
+    "description": "A description for 'files.success.path'"
+  },
+  {
+    "name": "files.zip.path",
+    "type": "java.lang.String",
+    "description": "A description for 'files.zip.path'"
+  },
+  {
+    "name": "files.type",
+    "type": "java.lang.String",
+    "description": "A description for 'files.type'"
+  },
+  {
+    "name": "files.path",
+    "type": "java.lang.String",
+    "description": "A description for 'files.path'"
+  }
+]}
